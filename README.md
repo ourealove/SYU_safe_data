@@ -4,6 +4,16 @@ Unreal Engine 5로 생성한 합성 이미지를 활용해 **worker / helmet / v
 
 ---
 
+## 데이터셋
+
+학습에 사용한 UE5 합성 이미지 데이터셋은 아래 링크에서 다운로드할 수 있습니다.
+
+[dataset.zip 다운로드 (Google Drive)](https://drive.google.com/file/d/1B5LoFr05jxKSkLCCub16adGxOSOvYWut/view?usp=drive_link)
+
+다운로드 후 프로젝트 루트에 압축 해제하면 `datasets/safety` 구조가 생성됩니다.
+
+---
+
 ## 요구사항
 
 | 항목 | 버전 |
